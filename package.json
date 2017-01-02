@@ -1,0 +1,19 @@
+{
+  "name": "reduxconter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannycolon/reduxCounter_2.git"
+  },
+  "author": "Manny Colon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannycolon/reduxCounter_2/issues"
+  },
+  "homepage": "https://github.com/mannycolon/reduxCounter_2#readme"
+}
