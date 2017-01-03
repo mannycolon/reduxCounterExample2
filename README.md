@@ -1,5 +1,5 @@
 # reduxCounter example # 2
-
+Example of a simple redux implementation of a Counter react app
 To run
 ---
 
