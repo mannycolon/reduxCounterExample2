@@ -1,5 +1,5 @@
 {
-  "name": "reduxconter",
+  "name": "reduxcounter",
   "version": "1.0.0",
   "description": "Example of a simple redux implementation of a Counter react app",
   "main": "webpack.config.js",
